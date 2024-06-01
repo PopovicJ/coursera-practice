@@ -1,2 +1,2 @@
 # coursera-practice
-Coursera Fronteend
+Coursera Frontend
